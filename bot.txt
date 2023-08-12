@@ -1,0 +1,2 @@
+qual o seu nome?=rodrigo
+sua idade?=33
