@@ -1,2 +1,8 @@
-qual o seu nome?=rodrigo
-sua idade?=33
+qual o seu nome?=rodrigo faustino
+qual a sua idade?=35
+qual a sua cor preferida?=não tenho preferência de cor
+qual o formato da terra?=arrendado, geoide
+que tipo de astro é o sol?=uma estrela
+que aula é essa?=técnicas de programação e algoritimos
+python=é uma linguagem de programação
+em que linguagem vocÊ foi criado?=python

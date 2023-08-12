@@ -4,5 +4,5 @@ def escrever(x):
 
 def pergunta_resposta(pergunta, resposta):
     arquivo='bot.txt'
-    with open(arquivo, 'a') as f:
+    with open(arquivo, 'a', encoding='utf-8') as f:
         f.write(f"{pergunta}={resposta}\n")
